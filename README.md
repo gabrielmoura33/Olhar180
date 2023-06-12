@@ -5,16 +5,16 @@
 # Olhar180 Teste Técnico
 Desenvolver uma aplicação web para gerenciar tarefas, permitindo ao usuário criar, editar e excluir tarefas, além de visualizar uma lista de tarefas existentes.
 <p>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GabrielMouraJS/Olhar180">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrielmoura33/Olhar180">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GabrielMouraJS/Olhar180">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gabrielmoura33/Olhar180">
   
   <a href="https://github.com/WallysonGalvao/rocketseat-gobarber/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GabrielMouraJS/Olhar180">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabrielmoura33/Olhar180">
   </a>
 
   <a href="https://github.com/WallysonGalvao/rocketseat-gobarber/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/GabrielMouraJS/Olhar180">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/gabrielmoura33/Olhar180">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -43,7 +43,7 @@ A aplicação será uma lista de tarefas simples, com as seguintes funcionalidad
 Passos para instalação
 1. Clone este repositório:
 ```bash 
-    git clone https://github.com/GabrielMouraJS/Olhar180
+    git clone https://github.com/gabrielmoura33/Olhar180
 ```
 
 2. Execute a aplicação em ambos os ambientes:
@@ -67,7 +67,7 @@ Passos para instalação
 Sinta-se à vontade para abrir issues ou enviar pull requests com suas sugestões e melhorias. Adoraríamos receber sua ajuda!
 
 ## 📞 Contato
-Se você tiver alguma dúvida, entre em contato com os desenvolvedores por e-mail: gabrielmourajs@gmail.com
+Se você tiver alguma dúvida, entre em contato com os desenvolvedores por e-mail: gabrielmoura33@gmail.com
 
 ## 🎯 Próximos passos
 À medida que o projeto evolui, planejamos implementar os seguintes recursos e melhorias:
